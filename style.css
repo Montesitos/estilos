@@ -1,0 +1,30 @@
+/*
+primary:#F3EFE0
+secundary:#434242
+light:#222222
+info:#22A39F
+*/
+h1{
+    color:bisque;
+}
+.bg-primary{
+    background-color:#F3EFE0;
+}
+.text-light{
+    color:#222222 ;
+}
+.text-secondary{
+    color:#434242;
+}
+.text-center{
+    text-align:center;
+}
+.text-right{
+    text-align:right;
+}
+.width-100{
+    width: 100px;
+}
+.bg-info{
+    background-color:#22A39F ;
+}
